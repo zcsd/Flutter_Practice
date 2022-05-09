@@ -9,7 +9,7 @@ class Answer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: double.infinity,
+      width: 200,
       child: ElevatedButton(
           style: ElevatedButton.styleFrom(
               primary: Colors.blue, onPrimary: Colors.white),
